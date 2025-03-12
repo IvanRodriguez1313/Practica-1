@@ -1,0 +1,37 @@
+*
+{
+    background-color: rgb(167, 255, 255);
+    color: black;
+}
+ h1 {
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ img {
+     
+border-radius: 0.9rem;
+height: 8cm;
+width: 9cm;
+right: 9;
+
+}
+a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+
+}
+#BT1{
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 77, 243);
+font-size: larger;
+border-color: rgb(81, 255, 0);
+background-color: rgb(255, 230, 0);
+}
+.resaltado {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 77, 243);
+font-size: larger;
+border-color: rgb(81, 255, 0);
+
+
+}
